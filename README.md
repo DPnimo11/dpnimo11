@@ -7,7 +7,7 @@ University of Pennsylvania Computer and Information Science student pursuing acc
 Recruiting note: I am looking for Fall 2026 and later internships in software engineering, ML engineering, research engineering, and robotics software.
 
 [Portfolio](https://dpnimo11.github.io) |
-[Resume](https://dpnimo11.github.io/resume.pdf) |
+[Resume](https://dpnimo11.github.io/Darren_Wang_Resume.pdf) |
 [LinkedIn](https://www.linkedin.com/in/darren-wang-penn/) |
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=fnvHV0cAAAAJ) |
 [Email](mailto:darrenwa@seas.upenn.edu)
