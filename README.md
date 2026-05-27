@@ -1,8 +1,6 @@
-<div align="right">
-  <img src="assets/profile.png" alt="Darren Wang" width="170" />
-</div>
-
 # Darren Wang
+
+<img align="right" src="assets/profile.png" alt="Darren Wang" width="170" />
 
 University of Pennsylvania Computer and Information Science student pursuing accelerated master's work in robotics. I build research software, ML/data pipelines, systems projects, and full-stack tools, mostly in Python, TypeScript, C, and Java.
 
@@ -13,6 +11,8 @@ Recruiting note: I am looking for Fall 2026 and later internships in software en
 [LinkedIn](https://www.linkedin.com/in/darren-wang-penn/) |
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=fnvHV0cAAAAJ) |
 [Email](mailto:darrenwa@seas.upenn.edu)
+
+<br clear="right" />
 
 ## Current
 
