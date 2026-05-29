@@ -20,7 +20,7 @@ University of Pennsylvania Computer and Information Science student pursuing acc
 
 ## Selected Work
 
-- [PepDock](https://github.com/DPnimo11/pepdock): AlphaFold 3 evaluation for protein-peptide docking, including mutation tests, out-of-distribution targets, ligand-swapping controls, and confidence versus affinity analysis.
+- [PepDock](https://github.com/DPnimo11/af3-peptide-benchmark): AlphaFold 3 evaluation for protein-peptide docking, including mutation tests, out-of-distribution targets, ligand-swapping controls, and confidence versus affinity analysis.
 - [Protein-Peptide Binding Research](https://doi.org/10.1002/jcc.70137): co-authored JCC paper on AI-assisted protein-peptide binding pose prediction using AlphaFold 2, ZDOCK, and ANI-2x refinement.
 - [Boltz-2 Affinity Embedding Modeling](https://github.com/DPnimo11/boltz2_aff): target-specific affinity models built from Boltz-2 affinity-module embeddings, scalar outputs, docking features, and ULVSH labels.
 - [PennOS](https://github.com/DPnimo11/PennOS): Unix-like OS project in C with cooperative threading, a shell, scheduler, job control, and a custom FAT-style file system.
