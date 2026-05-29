@@ -4,8 +4,6 @@
 
 University of Pennsylvania Computer and Information Science student pursuing accelerated master's work in robotics. I build research software, ML/data pipelines, systems projects, and full-stack tools, mostly in Python, TypeScript, C, and Java.
 
-Recruiting note: I am looking for Fall 2026 and later internships in software engineering, ML engineering, research engineering, and robotics software.
-
 [Portfolio](https://dpnimo11.github.io) |
 [Resume](https://dpnimo11.github.io/Darren_Wang_Resume.pdf) |
 [LinkedIn](https://www.linkedin.com/in/darren-wang-penn/) |
