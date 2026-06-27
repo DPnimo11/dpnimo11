@@ -14,7 +14,7 @@ University of Pennsylvania Computer and Information Science student pursuing acc
 
 ## Current
 
-- Working with Prof. Duncan Watts through PURM at Penn CSS.
+- Working with Prof. Duncan Watts through PURM at Penn CSS Lab.
 - Incoming CIS 4500 and CIS 3200 TA for Fall 2026.
 - Building projects around protein modeling, affinity prediction, systems programming, and practical web tools.
 
@@ -24,7 +24,7 @@ University of Pennsylvania Computer and Information Science student pursuing acc
 - [Protein-Peptide Binding Research](https://doi.org/10.1002/jcc.70137): co-authored JCC paper on AI-assisted protein-peptide binding pose prediction using AlphaFold 2, ZDOCK, and ANI-2x refinement.
 - [Boltz-2 Affinity Embedding Modeling](https://github.com/DPnimo11/boltz2_aff): target-specific affinity models built from Boltz-2 affinity-module embeddings, scalar outputs, docking features, and ULVSH labels.
 - [PennOS](https://github.com/DPnimo11/PennOS): Unix-like OS project in C with cooperative threading, a shell, scheduler, job control, and a custom FAT-style file system.
-- [LeetLoop](https://github.com/DPnimo11/leetloop): lDeployed Next.js tracker for coding interview prep with spaced repetition scheduling, attempt logging, templates, and JSON backups.
+- [LeetLoop](https://github.com/DPnimo11/leetloop): Deployed Next.js tracker for coding interview prep with spaced repetition scheduling, attempt logging, templates, and JSON backups.
 - [Image-to-Collision Physics Demo](https://github.com/DPnimo11/cis-5810-final-project): Flask and React pipeline that turns two uploaded images into meshes, editable physics properties, and a Blender collision render.
 - [Spark Social Map](https://github.com/DPnimo11/spark-challenge): Next.js social map with Mapbox, Clerk, Supabase, pinned media posts, and follow-network filtering.
 
