@@ -4,8 +4,8 @@
 
 University of Pennsylvania Computer and Information Science student pursuing accelerated master's work in robotics. I build research software, ML/data pipelines, systems projects, and full-stack tools, mostly in Python, TypeScript, C, and Java.
 
-[Portfolio](https://dpnimo11.github.io) |
-[Resume](https://dpnimo11.github.io/Darren_Wang_Resume.pdf) |
+[Portfolio](https://darren-wang.dev) |
+[Resume](https://darren-wang.dev/Darren_Wang_Resume.pdf) |
 [LinkedIn](https://www.linkedin.com/in/darren-wang-penn/) |
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=fnvHV0cAAAAJ) |
 [Email](mailto:darrenwa@seas.upenn.edu)
@@ -28,7 +28,7 @@ University of Pennsylvania Computer and Information Science student pursuing acc
 - [Image-to-Collision Physics Demo](https://github.com/DPnimo11/cis-5810-final-project): Flask and React pipeline that turns two uploaded images into meshes, editable physics properties, and a Blender collision render.
 - [Spark Social Map](https://github.com/DPnimo11/spark-challenge): Next.js social map with Mapbox, Clerk, Supabase, pinned media posts, and follow-network filtering.
 
-More project pages live on my [portfolio](https://dpnimo11.github.io/projects/).
+More project pages live on my [portfolio](https://darren-wang.dev/projects/).
 
 ## Technical Areas
 
